@@ -11,8 +11,8 @@ import (
 	"golang.org/x/net/ipv4"
 	"golang.org/x/net/ipv6"
 
-	"github.com/sbilly/go-windivert2/internal/iana"
-	"github.com/sbilly/go-windivert2/internal/utils"
+	"github.com/zhangrenhuo/go-windivert2/internal/iana"
+	"github.com/zhangrenhuo/go-windivert2/internal/utils"
 )
 
 type Device struct {
